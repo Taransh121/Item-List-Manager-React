@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Item-List-Manager-React/static/css/main.78d68c5c.css",
+    "main.js": "/Item-List-Manager-React/static/js/main.730eda00.js",
+    "index.html": "/Item-List-Manager-React/index.html",
+    "main.78d68c5c.css.map": "/Item-List-Manager-React/static/css/main.78d68c5c.css.map",
+    "main.730eda00.js.map": "/Item-List-Manager-React/static/js/main.730eda00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78d68c5c.css",
+    "static/js/main.730eda00.js"
+  ]
+}
